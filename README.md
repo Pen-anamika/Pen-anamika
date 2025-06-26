@@ -1,5 +1,4 @@
-## Hi I am Anamika
-I'm currently pursuing MCA 
+
 
 # 💫 About Me:
 Hi there ,<br>I'm Anamika a tech enthusiast.<br>I'm currently pursuing MCA .
